@@ -78,6 +78,4 @@ data-warehouse-project/
 │
 ├── tests/                              # Test scripts and quality files
 
-└── requirements.txt                    # Dependencies and requirements for the project
-```
 ---
